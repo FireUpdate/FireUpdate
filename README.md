@@ -39,9 +39,9 @@
 
 ## Connect with me. :smiley:
 
-<a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-contactfireupdate@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fireupdate10"><img src="https://img.shields.io/badge/-@fireupdate10-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/fireupdate10"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/fireupdate10"><img src="https://img.shields.io/badge/-@fireupdate10-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
