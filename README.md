@@ -39,14 +39,7 @@
 
 ## Connect with me. :smiley:
 
-<a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-contactfireupdate@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/fireupdate10"><img src="https://img.shields.io/badge/-@fireupdate10-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/fireupdate10"><img src="https://img.shields.io/badge/-@fireupdate10-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/fireupdate10"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/fireupdate10"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
------
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=FireUpdate)
-
-Credits: [Fire!](https://github.com/fireupdate)
-
-Last Edited on: 11/12/2020
