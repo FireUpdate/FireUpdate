@@ -37,7 +37,7 @@
 
 -----
 
-##:smiley: &nbsp;Connect with me.
+## :smiley: &nbsp;Connect with me.
 
 <a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fireupdate10"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
