@@ -1,6 +1,6 @@
 # Hi there, I'm Souvik - aka [Fire](https://github.com/fireupdate)👋
 
-<img align="right" alt="GIF" height="100px" src="https://cdn.discordapp.com/attachments/865464465890082849/868755918760853544/0.png" />
+<img align="right" alt="GIF" height="200px" src="https://cdn.discordapp.com/attachments/865464465890082849/868755918760853544/0.png" />
 
 ## I'm a Computer Science and Engineering Student  
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
