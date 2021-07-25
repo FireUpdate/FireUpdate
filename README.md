@@ -1,12 +1,12 @@
-# Hi there, I'm Souvik - aka [Fire!](https://github.com/fireupdate)👋
+# </Hi there, I'm Souvik - aka [Fire!](https://github.com/fireupdate)👋>
 
 <img align="right" alt="GIF" height="200px" src="https://cdn.discordapp.com/attachments/865464465890082849/868755918760853544/0.png" />
 
-## I'm a Computer Science and Engineering Student  
+## </I'm a Class 12 Student>
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies. 😅
+- 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker. 🎱
+- ⚡ Fun fact: I dream for the society, not for myself.
 
 
 ---
