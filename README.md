@@ -39,13 +39,13 @@
 
 ## Connect with me. :smiley:
 
-<p>
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:edsrujana1@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
+<p align="center">
+<a href="mailto:contact@fireupdate@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/fireupdate10"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/fireupdate10"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+-----
 
 ----
 
