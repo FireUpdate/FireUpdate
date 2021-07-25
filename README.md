@@ -45,7 +45,7 @@
 </p>
 
 -----
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=FireUpdate.FireUpdate)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=FireUpdate)
 
 Credits: [Fire!](https://github.com/fireupdate)
 
