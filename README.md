@@ -1,4 +1,4 @@
-# </Hi there, I'm Souvik - aka [Fire!](https://github.com/fireupdate) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">>
+# </Hi there, I'm Souvik - aka [Fire!](https://github.com/fireupdate) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">>
 
 <img align="right" alt="GIF" height="200px" src="https://cdn.discordapp.com/attachments/865464465890082849/868755918760853544/0.png" />
 
