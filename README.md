@@ -8,7 +8,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I dream for the society, not for myself.
 
-
 ---
 
 ## 🛠 &nbsp;</Development Languages.>
